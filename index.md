@@ -1,5 +1,6 @@
 ---
 layout: default
+<img src="https://raw.githubusercontent.com/s4dhulabs/vimana-framework/main/resources/imgs/vimana1.png" alt="alt text" width="50" height="50">
 ![Octocat](https://raw.githubusercontent.com/s4dhulabs/vimana-framework/main/resources/imgs/vimana1.png)
 ---
 
