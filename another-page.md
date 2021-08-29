@@ -1,10 +1,10 @@
-
 ---
 layout: default
 ---
 
-## Welcome to another page
 youtubeId:9JuLiJo5ioM
+## Welcome to another page
+
 _yay_
 {% include youtubePlayer.html id=page.youtubeId %}
 
