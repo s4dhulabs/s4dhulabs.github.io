@@ -6,7 +6,7 @@ layout: default
 
 <!-- ![Octocat](https://raw.githubusercontent.com/s4dhulabs/vimana-framework/main/resources/imgs/vimana1.png)
 -->
-<img src="https://raw.githubusercontent.com/s4dhulabs/vimana-framework/main/resources/imgs/vimana1.png" alt="alt text" width="50" height="50">
+<img src="https://raw.githubusercontent.com/s4dhulabs/vimana-framework/main/resources/imgs/vimana1.png" alt="alt text" width="100" height="100">
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
