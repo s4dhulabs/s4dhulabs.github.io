@@ -8,7 +8,7 @@ layout: default
 
 ## Welcome to another page
 
-_yay_
+_dumt_
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
