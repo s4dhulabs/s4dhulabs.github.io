@@ -1,7 +1,8 @@
 ---
 layout: default
----
 ![Octocat](https://raw.githubusercontent.com/s4dhulabs/vimana-framework/main/resources/imgs/vimana1.png)
+---
+
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
