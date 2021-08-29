@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+![Alt text](resources/imgs/vimana1.png?raw=true "VIMANAFRAMEWORK")
+<!--![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+-->
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
