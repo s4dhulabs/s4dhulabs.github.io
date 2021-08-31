@@ -1,12 +1,8 @@
 ---
 layout: default
 ---
-
-
-
--->
-<!--<img src="https://raw.githubusercontent.com/s4dhulabs/vimana-framework/main/resources/imgs/vimana1.png" alt="alt text" width="900" height="600">
--->
+## siddhis overview
+_Session dedicated to vimana extensions, known as siddhis_
 
 *	[Django](./frameworks/django/django_siddhis.html)
 *	[Flask](./frameworks/flask/flask_siddhis.html)
