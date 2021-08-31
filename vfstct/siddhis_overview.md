@@ -8,6 +8,6 @@ layout: default
 -->
 
 *	[Django](./frameworks/django/django_siddhis.html)
-*	[Flask](./vfstct/frameworks/flask/flask_siddhis.html)
-*	[Packages](./vfstct/libs/packages_siddhis.html)
+*	[Flask](./frameworks/flask/flask_siddhis.html)
+*	[Packages](./libs/packages_siddhis.html)
 
