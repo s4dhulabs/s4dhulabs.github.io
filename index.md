@@ -10,5 +10,5 @@ layout: default
 -->
 
 
-[SIDDHIS OVERVIEW](./siddhis.html).
+[SIDDHIS OVERVIEW](./siddhis.html)
 
