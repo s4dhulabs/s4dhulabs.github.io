@@ -1,7 +1,5 @@
 ---
 layout: default
-
-
 ---
 
 <!-- ![Octocat](https://raw.githubusercontent.com/s4dhulabs/vimana-framework/main/resources/imgs/vimana1.png)
@@ -10,6 +8,7 @@ layout: default
 -->
 
 
-* [siddhis overview](./siddhis.html)
-* [research notes](./research.html)
+[DMT](./dmt_pocs.html).
+[PRANA](./prana_pocs.html).
+[TICTRAC](./tictrac_pocs.html).
 
