@@ -7,8 +7,7 @@ layout: default
 <!--<img src="https://raw.githubusercontent.com/s4dhulabs/vimana-framework/main/resources/imgs/vimana1.png" alt="alt text" width="900" height="600">
 -->
 
-
-*	[Django](./django/django_siddhis.html)
-*	[Flask](./flask_siddhis.html)
-*	[Packages](./packages_siddhis.html)
+*	[Django](./vfstct/frameworks/django/django_siddhis.html)
+*	[Flask](./vfstct/frameworks/flask/flask_siddhis.html)
+*	[Packages](./vfstct/libs/packages_siddhis.html)
 
