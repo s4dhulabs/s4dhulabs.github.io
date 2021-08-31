@@ -8,10 +8,8 @@ layout: default
 -->
 
  ◉	[dmt](./dmt_pocs.html)
-
  ◉	[djunch](./dmt_pocs.html)
-
-*	[prana](./prana_pocs.html)
-*	[tictrac](./tictrac_pocs.html)
-*	[djonga](./tictrac_pocs.html)
+ ◉	[prana](./prana_pocs.html)
+ ◉	[tictrac](./tictrac_pocs.html)
+ ◉	[djonga](./tictrac_pocs.html)
 
