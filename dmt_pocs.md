@@ -3,9 +3,9 @@ layout: default
 youtubeId: _kTUDjUrizg
 ---
 
-## Welcome to another page
+## Running DMT against Django Web Application 
 
-_zzzzzzzzzzzzz_
+_Poc of Django Misconfiguration Tracker_
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
