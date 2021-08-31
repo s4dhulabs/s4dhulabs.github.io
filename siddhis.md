@@ -8,7 +8,7 @@ layout: default
 -->
 
 
-*	[Django](./django_siddhis.html)
+*	[Django](./django/django_siddhis.html)
 *	[Flask](./flask_siddhis.html)
 *	[Packages](./packages_siddhis.html)
 
