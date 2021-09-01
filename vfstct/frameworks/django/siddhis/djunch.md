@@ -27,12 +27,10 @@ Traceback step:
 For more information about the consolidation of results, check out [dmt](./dmt.html) example.
 
 
-#       *   Keep abducting...  
-#     (-_-)       
-#     _) (_        
-#    /__/  \            
-#  _(<_   / )_          
-# (__\_\_|_/__)                       
+       *   Keep abducting...  
+     (-_-)       
+     _) (_        
+    /__/  \            
 
 
 
