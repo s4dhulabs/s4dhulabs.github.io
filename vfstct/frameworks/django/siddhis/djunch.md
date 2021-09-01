@@ -6,7 +6,9 @@ youtubeId: _kTUDjUrizg
 ## Running Djunch against Django Web Application
 
 _Poc of Djunch fuzzer for Vimana Framework v0.3_
-<!--
-{% include youtubePlayer.html id=page.youtubeId %}
--->
+
+Djunch is a Django application fuzzer that can be invoked by other tools or directly via `vimana run --fuzzer <arguments>`:
+![Alt text](https://github.com/s4dhulabs/s4dhulabs.github.io/blob/master/resources/imgs/vmnf_run_fuzzer1.png?raw=true "VIMANAFRAMEWORK")
+
+
 [back](./)
