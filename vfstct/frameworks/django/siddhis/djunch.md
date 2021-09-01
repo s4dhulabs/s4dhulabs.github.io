@@ -21,5 +21,19 @@ That will be the initial scope to feed Djunch, and so application fuzzing step c
 Note that the initial scope (the expanded url patterns) will be used by Djunch to create its own scope. From this, the traditional fuzzer flow is followed until the results consolidation phase, as can be seen in the DMT poc in the current version of the framework:
 ![Alt text](https://github.com/s4dhulabs/s4dhulabs.github.io/blob/master/resources/imgs/run_fuzzer_exception1.png?raw=true "VIMANAFRAMEWORK")
 
+Traceback step:
+![Alt text](https://github.com/s4dhulabs/s4dhulabs.github.io/blob/master/resources/imgs/run_fuzzer_exception_snipet1.png?raw=true "VIMANAFRAMEWORK")
+
+For more information about the consolidation of results, check out [dmt](./siddhis/dmt.html) example.
+
+       *   Keep abducting...  
+     (-_-)       
+     _) (_        
+    /__/  \            
+  _(<_   / )_          
+ (__\_\_|_/__)                       
+
+
+
 
 [back](./index.html)
