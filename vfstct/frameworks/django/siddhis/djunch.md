@@ -24,7 +24,7 @@ Note that the initial scope (the expanded url patterns) will be used by Djunch t
 Traceback step:
 ![Alt text](https://github.com/s4dhulabs/s4dhulabs.github.io/blob/master/resources/imgs/run_fuzzer_exception_snipet1.png?raw=true "VIMANAFRAMEWORK")
 
-For more information about the consolidation of results, check out [dmt](./siddhis/dmt.html) example.
+For more information about the consolidation of results, check out [dmt](./dmt.html) example.
 
 
 #       *   Keep abducting...  
