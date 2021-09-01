@@ -8,7 +8,7 @@ youtubeId: _kTUDjUrizg
 _Poc of Djunch fuzzer for Vimana Framework v0.3_
 
 Djunch is a Django application fuzzer that can be invoked by other tools or directly via `vimana run --fuzzer <arguments>`:
-![Alt text](https://github.com/s4dhulabs/s4dhulabs.github.io/blob/master/resources/imgs/vmnf_run_fuzzer1.png?raw=true "VIMANAFRAMEWORK")
+![Alt text](https://github.com/s4dhulabs/s4dhulabs.github.io/blob/master/resources/imgs/run_fuzzer1.png?raw=true "VIMANAFRAMEWORK")
 
 
-[back](./)
+[back](./index.html)
