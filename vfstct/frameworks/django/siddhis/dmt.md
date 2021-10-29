@@ -1,6 +1,6 @@
 ---
 layout: default
-youtubeId: _Gj8mIFGU6s4 
+youtubeId: Gj8mIFGU6s4 
 ---
 
 ## Running DMT against Django Web Application
