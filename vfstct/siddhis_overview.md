@@ -6,7 +6,7 @@ _Session dedicated to vimana extensions, known as siddhis_
 
 *	[Django](./frameworks/django/django_siddhis.html)
 *	[Flask](./frameworks/flask/flask_siddhis.html)
-*	[Packages](./libs/packages_siddhis.html)
+*	[Packages](./libs/ZipFile.html)
 
 
 To list the available siddhis (extensions) in current version of Vimana (0.3), we can use command line `vimana list --modules`:
