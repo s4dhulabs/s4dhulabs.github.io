@@ -4,6 +4,6 @@ layout: default
 ## Content
 
 
-* [siddhis overview](./vfstct/siddhis_overview.html)
-* [research notes](./vfstct/research.html)
+<!-- * [siddhis overview](./vfstct/siddhis_overview.html) -->
+* [Python Security Research](./vfstct/research.html)
 
