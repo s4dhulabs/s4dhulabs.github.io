@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## siddhis overview
+## siddhis overview:
 _Session dedicated to vimana extensions, known as siddhis_
 
 *	[Django](./frameworks/django/django_siddhis.html)
